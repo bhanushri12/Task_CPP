@@ -88,7 +88,7 @@ static string dictionaryDecode(const string& input) {
 This function decodes a string `input` that has been compressed using Dictionary Coding back to its original form.
 
 ## Testing and Comparison
-The code also includes functions to test the compression algorithms and compare their performance. See the code snippets in the previous message.
+The code also includes functions to test the compression algorithms and compare their performance. 
 ```
 
-Feel free to adjust the description or add any additional information as needed for your README file.
+
